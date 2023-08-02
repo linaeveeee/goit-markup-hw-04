@@ -585,11 +585,6 @@ a {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-.portfolio-link:hover .portfolio-cover,
-.portfolio-link:focus .portfolio-cover {
-  transform: translateY(0);
-}
-
 .portfolio-link:hover .portfolio-cover-text,
 .portfolio-link:focus .portfolio-cover-text {
   transform: translateY(0);
